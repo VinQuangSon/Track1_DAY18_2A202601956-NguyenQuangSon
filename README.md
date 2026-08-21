@@ -7,8 +7,8 @@
 
 ## 1. Thông tin cá nhân và nhóm
 
-- **MHV:** 2A202601916
-- **Họ tên:** Lê Đăng Tấn
+- **MHV:** 2A202601956
+- **Họ tên:** Nguyễn Quang Sơn
 - **Tên nhóm:** Mixue
 - **Thành viên:**:
     - Lê Đăng Tấn - 2A202601916
